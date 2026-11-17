@@ -1,0 +1,9 @@
+# Local-only files: never upload these.
+__pycache__/
+piper/
+voices/
+data/
+*.enc
+*.tmp
+*.log
+*.wav
